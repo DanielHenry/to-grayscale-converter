@@ -1,5 +1,4 @@
 vendor
 logs
 .bundle
-source_images
-result_images
+tests
